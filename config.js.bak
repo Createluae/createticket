@@ -1,0 +1,12 @@
+require(`dotenv`)//seanto#2014
+
+
+module.exports = {
+    dsc: {
+        token: "OTIwNjgxMjQ0OTczNDY5Njk2.Ybn5Og.3xuoLrmGWileltLcAsQWB-aZHuc"
+    },
+
+    app: {
+        prefix: '!'
+    }
+};
